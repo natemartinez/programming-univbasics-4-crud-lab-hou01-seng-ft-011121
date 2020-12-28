@@ -1,17 +1,21 @@
 def create_an_empty_array
-  
+  []
 end
 
 def create_an_array
-  
+  ["Sugar", "Spice", "Everything", "Nice"]
 end
 
 def add_element_to_end_of_array(array, element)
+  best_players=["#{element}", "#{element}"]
   
+  best_players << "arrays!"
 end
 
 def add_element_to_start_of_array(array, element)
+  array=["#{element}", "#{element}"]
   
+  array.unshift = "#{element}"
 end
 
 def remove_element_from_end_of_array(array)
