@@ -32,6 +32,7 @@ end
 
 def retrieve_element_from_index(array, index_number)
   array=["array", "wow"]
+  "wow".index
   retrieve_element_from_index[0]
 end
 
