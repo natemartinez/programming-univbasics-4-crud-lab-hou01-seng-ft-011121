@@ -33,7 +33,7 @@ end
 def retrieve_element_from_index(array, index_number)
   array=["wow","wow"]
   
-  retrieve_element_from_index.index[1]
+  retrieve_element_from_index[1]
 end
 
 def retrieve_first_element_from_array(array)
