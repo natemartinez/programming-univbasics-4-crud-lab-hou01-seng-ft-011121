@@ -31,8 +31,8 @@ def remove_element_from_start_of_array(array)
 end
 
 def retrieve_element_from_index(array, index_number)
-  array=["wow", "arrays!"]
-  
+  array=["array", "wow"]
+  puts "#{index number}"
   retrieve_element_from_index[0]
 end
 
