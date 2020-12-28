@@ -33,7 +33,7 @@ end
 def retrieve_element_from_index(array, index_number)
   array=["wow", "arrays!"]
   
-  retrieve_first_element_from_array[0]
+  retrieve_first_element_from_index[0]
 end
 
 def retrieve_first_element_from_array(array)
